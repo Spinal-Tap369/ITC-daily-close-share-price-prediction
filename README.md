@@ -1,3 +1,5 @@
+# Do not use this to predict stocks irl. This is just a demo for a LSTM model
+
 # Stock Price Prediction using LSTM
 
 This project aims to predict stock prices using Long Short-Term Memory (LSTM) neural networks. It utilizes historical stock price data along with technical indicators to train an LSTM model for predicting future stock prices.
