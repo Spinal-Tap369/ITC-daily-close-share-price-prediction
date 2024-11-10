@@ -27,3 +27,6 @@ This project aims to predict stock prices using Long Short-Term Memory (LSTM) ne
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Dataset
+https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
